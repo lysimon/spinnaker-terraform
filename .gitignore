@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+# Custom file where environment variable can be stored before
+script.sh
